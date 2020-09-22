@@ -1,0 +1,15 @@
+C:\RepoGit2\tp2\Sist\bin\Debug\netcoreapp3.1\Sist.exe
+C:\RepoGit2\tp2\Sist\obj\Debug\netcoreapp3.1\Sist.csprojAssemblyReference.cache
+C:\RepoGit2\tp2\Sist\obj\Debug\netcoreapp3.1\Sist.AssemblyInfoInputs.cache
+C:\RepoGit2\tp2\Sist\obj\Debug\netcoreapp3.1\Sist.AssemblyInfo.cs
+C:\RepoGit2\tp2\Sist\bin\Debug\netcoreapp3.1\Sist.deps.json
+C:\RepoGit2\tp2\Sist\bin\Debug\netcoreapp3.1\Sist.runtimeconfig.json
+C:\RepoGit2\tp2\Sist\bin\Debug\netcoreapp3.1\Sist.runtimeconfig.dev.json
+C:\RepoGit2\tp2\Sist\bin\Debug\netcoreapp3.1\Sist.dll
+C:\RepoGit2\tp2\Sist\bin\Debug\netcoreapp3.1\Sist.pdb
+C:\RepoGit2\tp2\Sist\bin\Debug\netcoreapp3.1\NLog.dll
+C:\RepoGit2\tp2\Sist\obj\Debug\netcoreapp3.1\Sist.csproj.CoreCompileInputs.cache
+C:\RepoGit2\tp2\Sist\obj\Debug\netcoreapp3.1\Sist.csproj.CopyComplete
+C:\RepoGit2\tp2\Sist\obj\Debug\netcoreapp3.1\Sist.dll
+C:\RepoGit2\tp2\Sist\obj\Debug\netcoreapp3.1\Sist.pdb
+C:\RepoGit2\tp2\Sist\obj\Debug\netcoreapp3.1\Sist.genruntimeconfig.cache

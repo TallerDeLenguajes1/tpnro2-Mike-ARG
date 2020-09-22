@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J9B+RmDRdvudh1vezXO+2MklCx6YIcEcrlMo8FDLgT4QhX0ZGXMDt9BqdOAP1tR476gFg5I4Z72zMGBSd2puxw==",
+  "success": true,
+  "projectFilePath": "C:\\RepoGit2\\tp2\\Sist\\Sist.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miguel\\.nuget\\packages\\nlog\\4.7.4\\nlog.4.7.4.nupkg.sha512"
+  ],
+  "logs": []
+}
